@@ -200,6 +200,503 @@
               "correctAnswer": "Happy"
             }
           ]
+        },
+        {
+          "level": 4,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Smart'?",
+              "options": ["Intelligent", "Lazy", "Clumsy", "Quiet"],
+              "correctAnswer": "Intelligent"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct sentence:",
+              "options": [
+                "Their going to the park.",
+                "They’re going to the park.",
+                "There going to the park.",
+                "They going to the park."
+              ],
+              "correctAnswer": "They’re going to the park."
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Increase'?",
+              "options": ["Grow", "Expand", "Decline", "Multiply"],
+              "correctAnswer": "Decline"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the adjective in the sentence: 'The quick brown fox jumps over the lazy dog.'",
+              "options": ["Fox", "Jumps", "Lazy", "Over"],
+              "correctAnswer": "Lazy"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct verb form: 'They ___ to the market every Sunday.'",
+              "options": ["Go", "Goes", "Going", "Gone"],
+              "correctAnswer": "Go"
+            },
+            {
+              "id": 6,
+              "title_name": "Which word is a conjunction?",
+              "options": ["And", "Blue", "Run", "Quickly"],
+              "correctAnswer": "And"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Goose'?",
+              "options": ["Gooses", "Geese", "Goose", "Gees"],
+              "correctAnswer": "Geese"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Hot'?",
+              "options": ["Warm", "Cold", "Boiling", "Spicy"],
+              "correctAnswer": "Cold"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'They ___ playing football now.'",
+              "options": ["Is", "Are", "Am", "Be"],
+              "correctAnswer": "Are"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is a noun?",
+              "options": ["Run", "Beautiful", "Happiness", "Quickly"],
+              "correctAnswer": "Happiness"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Begin'?",
+              "options": ["Start", "End", "Pause", "Stop"],
+              "correctAnswer": "Start"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct sentence:",
+              "options": [
+                "Its a sunny day.",
+                "It's a sunny day.",
+                "Its' a sunny day.",
+                "It is' a sunny day."
+              ],
+              "correctAnswer": "It's a sunny day."
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Ancient'?",
+              "options": ["Old", "Modern", "Historical", "Archaic"],
+              "correctAnswer": "Modern"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the adverb in the sentence: 'She sings beautifully.'",
+              "options": ["She", "Sings", "Beautifully", "None"],
+              "correctAnswer": "Beautifully"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct verb form: 'He ___ a book right now.'",
+              "options": ["Reads", "Read", "Reading", "Is reading"],
+              "correctAnswer": "Is reading"
+            },
+            {
+              "id": 6,
+              "title_name": "Which word is a pronoun?",
+              "options": ["Run", "She", "Quickly", "Blue"],
+              "correctAnswer": "She"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Foot'?",
+              "options": ["Foots", "Feet", "Footes", "Feets"],
+              "correctAnswer": "Feet"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Dark'?",
+              "options": ["Light", "Dim", "Black", "Shadow"],
+              "correctAnswer": "Light"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'I ___ to the gym every day.'",
+              "options": ["Go", "Goes", "Going", "Gone"],
+              "correctAnswer": "Go"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an interjection?",
+              "options": ["Wow", "Run", "Blue", "Happy"],
+              "correctAnswer": "Wow"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Quick'?",
+              "options": ["Slow", "Fast", "Lazy", "Heavy"],
+              "correctAnswer": "Fast"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct sentence:",
+              "options": [
+                "They're going to their house.",
+                "There going to their house.",
+                "Their going to they're house.",
+                "They're going to there house."
+              ],
+              "correctAnswer": "They're going to their house."
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Generous'?",
+              "options": ["Kind", "Selfish", "Giving", "Charitable"],
+              "correctAnswer": "Selfish"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the verb in the sentence: 'She dances gracefully.'",
+              "options": ["She", "Dances", "Gracefully", "None"],
+              "correctAnswer": "Dances"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct tense: 'They ___ finished the project.'",
+              "options": ["Have", "Has", "Had", "Having"],
+              "correctAnswer": "Have"
+            },
+            {
+              "id": 6,
+              "title_name": "Which word is a conjunction?",
+              "options": ["Or", "Blue", "Run", "Quickly"],
+              "correctAnswer": "Or"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Woman'?",
+              "options": ["Womans", "Womens", "Women", "Womene"],
+              "correctAnswer": "Women"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Early'?",
+              "options": ["Late", "Quick", "Soon", "Prompt"],
+              "correctAnswer": "Late"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'He ___ to the store every Saturday.'",
+              "options": ["Go", "Goes", "Going", "Gone"],
+              "correctAnswer": "Goes"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an adjective?",
+              "options": ["Run", "Blue", "Happiness", "Quickly"],
+              "correctAnswer": "Blue"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Difficult'?",
+              "options": ["Easy", "Hard", "Simple", "Light"],
+              "correctAnswer": "Hard"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct sentence:",
+              "options": [
+                "Its raining outside.",
+                "It's raining outside.",
+                "Its' raining outside.",
+                "It is' raining outside."
+              ],
+              "correctAnswer": "It's raining outside."
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Empty'?",
+              "options": ["Full", "Blank", "Void", "Clear"],
+              "correctAnswer": "Full"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the noun in the sentence: 'Dogs bark loudly.'",
+              "options": ["Dogs", "Bark", "Loudly", "None"],
+              "correctAnswer": "Dogs"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct verb form: 'She ___ a letter now.'",
+              "options": ["Writes", "Write", "Writing", "Is writing"],
+              "correctAnswer": "Is writing"
+            },
+            {
+              "id": 6,
+              "title_name": "Which word is a pronoun?",
+              "options": ["They", "Blue", "Run", "Quickly"],
+              "correctAnswer": "They"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Tooth'?",
+              "options": ["Tooths", "Teeth", "Tootes", "Toothes"],
+              "correctAnswer": "Teeth"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Full'?",
+              "options": ["Empty", "Packed", "Loaded", "Stuffed"],
+              "correctAnswer": "Empty"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'We ___ going to the concert tonight.'",
+              "options": ["Is", "Are", "Am", "Be"],
+              "correctAnswer": "Are"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an interjection?",
+              "options": ["Hey", "Run", "Blue", "Happy"],
+              "correctAnswer": "Hey"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Begin'?",
+              "options": ["Start", "End", "Pause", "Stop"],
+              "correctAnswer": "Start"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct sentence:",
+              "options": [
+                "Their going to the museum.",
+                "There going to the museum.",
+                "They’re going to the museum.",
+                "They going to the museum."
+              ],
+              "correctAnswer": "They’re going to the museum."
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Weak'?",
+              "options": ["Strong", "Soft", "Light", "Gentle"],
+              "correctAnswer": "Strong"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the adjective in the sentence: 'The tall man walked quickly.'",
+              "options": ["Tall", "Man", "Walked", "Quickly"],
+              "correctAnswer": "Tall"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct tense: 'She ___ finished her homework.'",
+              "options": ["Have", "Has", "Had", "Having"],
+              "correctAnswer": "Has"
+            },
+            {
+              "id": 6,
+              "title_name": "Which word is a conjunction?",
+              "options": ["But", "Blue", "Run", "Quickly"],
+              "correctAnswer": "But"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Person'?",
+              "options": ["Persons", "People", "Peoples", "Persones"],
+              "correctAnswer": "People"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Light'?",
+              "options": ["Dark", "Bright", "Clear", "Shiny"],
+              "correctAnswer": "Dark"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'He ___ to the library every weekend.'",
+              "options": ["Go", "Goes", "Going", "Gone"],
+              "correctAnswer": "Goes"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an adjective?",
+              "options": ["Run", "Blue", "Happiness", "Quickly"],
+              "correctAnswer": "Blue"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Small'?",
+              "options": ["Tiny", "Huge", "Large", "Massive"],
+              "correctAnswer": "Tiny"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct sentence:",
+              "options": [
+                "Its time to go.",
+                "It's time to go.",
+                "Its' time to go.",
+                "It is' time to go."
+              ],
+              "correctAnswer": "It's time to go."
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Happy'?",
+              "options": ["Sad", "Joyful", "Elated", "Content"],
+              "correctAnswer": "Sad"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the noun in the sentence: 'Birds fly high in the sky.'",
+              "options": ["Birds", "Fly", "High", "Sky"],
+              "correctAnswer": "Birds"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct verb form: 'They ___ a movie tonight.'",
+              "options": ["Watch", "Watches", "Watching", "Watched"],
+              "correctAnswer": "Watch"
+            },
+            {
+              "id": 6,
+              "title_name": "Which word is a pronoun?",
+              "options": ["He", "Blue", "Run", "Quickly"],
+              "correctAnswer": "He"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Leaf'?",
+              "options": ["Leafs", "Leaves", "Leafes", "Leefs"],
+              "correctAnswer": "Leaves"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Cheap'?",
+              "options": ["Expensive", "Inexpensive", "Affordable", "Low-cost"],
+              "correctAnswer": "Expensive"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'She ___ to the gym every morning.'",
+              "options": ["Go", "Goes", "Going", "Gone"],
+              "correctAnswer": "Goes"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an interjection?",
+              "options": ["Oops", "Run", "Blue", "Happy"],
+              "correctAnswer": "Oops"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Angry'?",
+              "options": ["Happy", "Mad", "Calm", "Joyful"],
+              "correctAnswer": "Mad"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct sentence:",
+              "options": [
+                "Their coming to the party.",
+                "There coming to the party.",
+                "They're coming to the party.",
+                "They coming to the party."
+              ],
+              "correctAnswer": "They're coming to the party."
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Tall'?",
+              "options": ["Short", "High", "Long", "Slim"],
+              "correctAnswer": "Short"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the verb in the sentence: 'He runs every morning.'",
+              "options": ["He", "Runs", "Every", "Morning"],
+              "correctAnswer": "Runs"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct tense: 'They ___ completed the assignment.'",
+              "options": ["Have", "Has", "Had", "Having"],
+              "correctAnswer": "Have"
+            },
+            {
+              "id": 6,
+              "title_name": "Which word is a conjunction?",
+              "options": ["And", "Blue", "Run", "Quickly"],
+              "correctAnswer": "And"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Mouse'?",
+              "options": ["Mouses", "Mice", "Mouse", "Mices"],
+              "correctAnswer": "Mice"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Old'?",
+              "options": ["New", "Ancient", "Historic", "Vintage"],
+              "correctAnswer": "New"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'We ___ visiting the museum tomorrow.'",
+              "options": ["Is", "Are", "Am", "Be"],
+              "correctAnswer": "Are"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an adjective?",
+              "options": ["Run", "Blue", "Happiness", "Quickly"],
+              "correctAnswer": "Blue"
+            }
+          ]
         }
       ]
     },
@@ -401,6 +898,469 @@
               "title_name": "What is 50% of 100?",
               "options": ["10", "20", "50", "100"],
               "correctAnswer": "50"
+            }
+          ]
+        },
+        // Levels 4 to 10 for Maths can be added here following the same structure
+        {
+          "level": 4,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 20 + 30?",
+              "options": ["40", "50", "60", "70"],
+              "correctAnswer": "50"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 25?",
+              "options": ["4", "5", "6", "7"],
+              "correctAnswer": "5"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 100 - 45?",
+              "options": ["55", "60", "65", "70"],
+              "correctAnswer": "55"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 12 x 12?",
+              "options": ["144", "124", "132", "156"],
+              "correctAnswer": "144"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 81 / 9?",
+              "options": ["7", "8", "9", "10"],
+              "correctAnswer": "9"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 14 x 6?",
+              "options": ["84", "86", "88", "90"],
+              "correctAnswer": "84"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 50 + 25?",
+              "options": ["65", "70", "75", "80"],
+              "correctAnswer": "75"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 4?",
+              "options": ["16", "32", "64", "128"],
+              "correctAnswer": "64"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 15 x 10?",
+              "options": ["150", "160", "170", "180"],
+              "correctAnswer": "150"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 75% of 200?",
+              "options": ["100", "125", "150", "175"],
+              "correctAnswer": "150"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 5 + 7?",
+              "options": ["11", "12", "13", "14"],
+              "correctAnswer": "12"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 36?",
+              "options": ["5", "6", "7", "8"],
+              "correctAnswer": "6"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 50 - 19?",
+              "options": ["31", "32", "33", "34"],
+              "correctAnswer": "31"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 9 x 9?",
+              "options": ["81", "72", "90", "99"],
+              "correctAnswer": "81"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 64 / 8?",
+              "options": ["6", "7", "8", "9"],
+              "correctAnswer": "8"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 13 x 7?",
+              "options": ["91", "84", "77", "98"],
+              "correctAnswer": "91"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 40 + 35?",
+              "options": ["65", "70", "75", "80"],
+              "correctAnswer": "75"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 5?",
+              "options": ["75", "100", "125", "150"],
+              "correctAnswer": "125"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 20 x 5?",
+              "options": ["100", "90", "80", "70"],
+              "correctAnswer": "100"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 60% of 150?",
+              "options": ["60", "75", "90", "105"],
+              "correctAnswer": "90"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 8 + 9?",
+              "options": ["16", "17", "18", "19"],
+              "correctAnswer": "17"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 49?",
+              "options": ["6", "7", "8", "9"],
+              "correctAnswer": "7"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 100 - 45?",
+              "options": ["55", "60", "65", "70"],
+              "correctAnswer": "55"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 4 x 6?",
+              "options": ["20", "22", "24", "26"],
+              "correctAnswer": "24"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 81 / 9?",
+              "options": ["7", "8", "9", "10"],
+              "correctAnswer": "9"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 14 x 5?",
+              "options": ["60", "65", "70", "75"],
+              "correctAnswer": "70"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 30 + 25?",
+              "options": ["50", "55", "60", "65"],
+              "correctAnswer": "55"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 2?",
+              "options": ["4", "6", "8", "10"],
+              "correctAnswer": "8"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 25 x 4?",
+              "options": ["90", "95", "100", "105"],
+              "correctAnswer": "100"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 80% of 50?",
+              "options": ["30", "35", "40", "45"],
+              "correctAnswer": "40"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 9 + 10?",
+              "options": ["18", "19", "20", "21"],
+              "correctAnswer": "19"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 64?",
+              "options": ["6", "7", "8", "9"],
+              "correctAnswer": "8"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 200 - 75?",
+              "options": ["115", "125", "135", "145"],
+              "correctAnswer": "125"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 7 x 7?",
+              "options": ["42", "44", "46", "49"],
+              "correctAnswer": "49"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 100 / 10?",
+              "options": ["8", "9", "10", "11"],
+              "correctAnswer": "10"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 13 x 6?",
+              "options": ["78", "80", "82", "84"],
+              "correctAnswer": "78"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 45 + 35?",
+              "options": ["75", "80", "85", "90"],
+              "correctAnswer": "80"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 4?",
+              "options": ["48", "52", "56", "64"],
+              "correctAnswer": "64"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 30 x 3?",
+              "options": ["80", "85", "90", "95"],
+              "correctAnswer": "90"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 25% of 200?",
+              "options": ["25", "40", "50", "60"],
+              "correctAnswer": "50"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 10 + 15?",
+              "options": ["23", "25", "27", "30"],
+              "correctAnswer": "25"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 81?",
+              "options": ["8", "9", "10", "11"],
+              "correctAnswer": "9"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 300 - 125?",
+              "options": ["165", "175", "185", "195"],
+              "correctAnswer": "175"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 8 x 8?",
+              "options": ["56", "64", "72", "80"],
+              "correctAnswer": "64"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 144 / 12?",
+              "options": ["10", "11", "12", "13"],
+              "correctAnswer": "12"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 14 x 5?",
+              "options": ["60", "65", "70", "75"],
+              "correctAnswer": "70"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 60 + 40?",
+              "options": ["90", "95", "100", "105"],
+              "correctAnswer": "100"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 5?",
+              "options": ["100", "110", "120", "125"],
+              "correctAnswer": "125"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 40 x 4?",
+              "options": ["150", "160", "170", "180"],
+              "correctAnswer": "160"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 30% of 300?",
+              "options": ["60", "70", "80", "90"],
+              "correctAnswer": "90"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 12 + 18?",
+              "options": ["28", "30", "32", "34"],
+              "correctAnswer": "30"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 100?",
+              "options": ["9", "10", "11", "12"],
+              "correctAnswer": "10"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 500 - 225?",
+              "options": ["275", "285", "295", "305"],
+              "correctAnswer": "275"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 9 x 9?",
+              "options": ["72", "81", "90", "99"],
+              "correctAnswer": "81"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 169 / 13?",
+              "options": ["12", "13", "14", "15"],
+              "correctAnswer": "13"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 16 x 6?",
+              "options": ["90", "96", "102", "108"],
+              "correctAnswer": "96"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 75 + 25?",
+              "options": ["90", "95", "100", "105"],
+              "correctAnswer": "100"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 6?",
+              "options": ["196", "216", "256", "276"],
+              "correctAnswer": "216"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 50 x 4?",
+              "options": ["180", "190", "200", "210"],
+              "correctAnswer": "200"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 40% of 250?",
+              "options": ["80", "90", "100", "110"],
+              "correctAnswer": "100"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 15 + 25?",
+              "options": ["35", "40", "45", "50"],
+              "correctAnswer": "40"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 121?",
+              "options": ["10", "11", "12", "13"],
+              "correctAnswer": "11"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 600 - 375?",
+              "options": ["225", "235", "245", "255"],
+              "correctAnswer": "225"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 12 x 12?",
+              "options": ["144", "154", "164", "174"],
+              "correctAnswer": "144"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 196 / 14?",
+              "options": ["13", "14", "15", "16"],
+              "correctAnswer": "14"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 17 x 6?",
+              "options": ["96", "102", "108", "114"],
+              "correctAnswer": "102"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 85 + 35?",
+              "options": ["110", "115", "120", "125"],
+              "correctAnswer": "120"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 7?",
+              "options": ["343", "353", "363", "373"],
+              "correctAnswer": "343"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 60 x 4?",
+              "options": ["220", "230", "240", "250"],
+              "correctAnswer": "240"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 50% of 400?",
+              "options": ["150", "175", "200", "225"],
+              "correctAnswer": "200"
             }
           ]
         }
@@ -609,6 +1569,469 @@
               "title_name": "What is the chemical symbol for gold?",
               "options": ["Au", "Ag", "Go", "Ge"],
               "correctAnswer": "Au"
+            }
+          ]
+        },
+        // Levels 4 to 10 for Science can be added here following the same structure
+        {
+          "level": 4,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the chemical symbol for sodium?",
+              "options": ["S", "Na", "So", "N"],
+              "correctAnswer": "Na"
+            },
+            {
+              "id": 2,
+              "title_name": "What planet has the most moons?",
+              "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+              "correctAnswer": "Saturn"
+            },
+            {
+              "id": 3,
+              "title_name": "What is the powerhouse of the cell?",
+              "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+              "correctAnswer": "Mitochondria"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the chemical formula for table salt?",
+              "options": ["NaCl", "KCl", "NaCO3", "CaCl2"],
+              "correctAnswer": "NaCl"
+            },
+            {
+              "id": 5,
+              "title_name": "What gas is essential for respiration?",
+              "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+              "correctAnswer": "Oxygen"
+            },
+            {
+              "id": 6,
+              "title_name": "What is the largest organ in the human body?",
+              "options": ["Heart", "Liver", "Skin", "Lungs"],
+              "correctAnswer": "Skin"
+            },
+            {
+              "id": 7,
+              "title_name": "What type of energy does the sun provide?",
+              "options": ["Thermal", "Kinetic", "Nuclear", "Solar"],
+              "correctAnswer": "Solar"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the process by which plants make their food?",
+              "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
+              "correctAnswer": "Photosynthesis"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the most abundant element in the universe?",
+              "options": ["Oxygen", "Hydrogen", "Carbon", "Nitrogen"],
+              "correctAnswer": "Hydrogen"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the boiling point of water in Fahrenheit?",
+              "options": ["212°F", "100°F", "180°F", "32°F"],
+              "correctAnswer": "212°F"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the formula for calculating force?",
+              "options": ["F = ma", "E = mc^2", "V = IR", "P = IV"],
+              "correctAnswer": "F = ma"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the largest organ inside the human body?",
+              "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+              "correctAnswer": "Liver"
+            },
+            {
+              "id": 3,
+              "title_name": "What is the main gas found in the Earth's atmosphere?",
+              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+              "correctAnswer": "Nitrogen"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the process of water changing from liquid to gas?",
+              "options": ["Condensation", "Evaporation", "Freezing", "Sublimation"],
+              "correctAnswer": "Evaporation"
+            },
+            {
+              "id": 5,
+              "title_name": "What part of the cell contains genetic material?",
+              "options": ["Cytoplasm", "Nucleus", "Cell membrane", "Mitochondria"],
+              "correctAnswer": "Nucleus"
+            },
+            {
+              "id": 6,
+              "title_name": "What is the chemical symbol for iron?",
+              "options": ["Ir", "Fe", "In", "Io"],
+              "correctAnswer": "Fe"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the primary source of energy for the Earth?",
+              "options": ["Wind", "Sun", "Water", "Fossil Fuels"],
+              "correctAnswer": "Sun"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the basic unit of life?",
+              "options": ["Atom", "Molecule", "Cell", "Organ"],
+              "correctAnswer": "Cell"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the speed of light?",
+              "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^5 m/s", "3 x 10^7 m/s"],
+              "correctAnswer": "3 x 10^8 m/s"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the pH level of pure water?",
+              "options": ["5", "7", "9", "11"],
+              "correctAnswer": "7"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the second law of motion by Newton?",
+              "options": ["Action and Reaction", "Force equals mass times acceleration", "Law of Universal Gravitation", "Inertia"],
+              "correctAnswer": "Force equals mass times acceleration"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the powerhouse of the cell?",
+              "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+              "correctAnswer": "Mitochondria"
+            },
+            {
+              "id": 3,
+              "title_name": "What is the chemical formula for carbon dioxide?",
+              "options": ["CO", "CO2", "C2O", "C2O2"],
+              "correctAnswer": "CO2"
+            },
+            {
+              "id": 4,
+              "title_name": "What type of bond involves the sharing of electron pairs between atoms?",
+              "options": ["Ionic Bond", "Covalent Bond", "Metallic Bond", "Hydrogen Bond"],
+              "correctAnswer": "Covalent Bond"
+            },
+            {
+              "id": 5,
+              "title_name": "What is the process by which plants release water vapor?",
+              "options": ["Transpiration", "Photosynthesis", "Respiration", "Evaporation"],
+              "correctAnswer": "Transpiration"
+            },
+            {
+              "id": 6,
+              "title_name": "What is the largest organ inside the human body?",
+              "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+              "correctAnswer": "Liver"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the unit of electrical resistance?",
+              "options": ["Ampere", "Volt", "Ohm", "Watt"],
+              "correctAnswer": "Ohm"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the main function of red blood cells?",
+              "options": ["Fight infection", "Carry oxygen", "Clot blood", "Provide immunity"],
+              "correctAnswer": "Carry oxygen"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the process of a solid turning directly into a gas called?",
+              "options": ["Melting", "Freezing", "Sublimation", "Condensation"],
+              "correctAnswer": "Sublimation"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the most abundant element in the Earth's crust?",
+              "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+              "correctAnswer": "Oxygen"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the primary gas responsible for global warming?",
+              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+              "correctAnswer": "Carbon Dioxide"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the largest bone in the human body?",
+              "options": ["Femur", "Tibia", "Humerus", "Fibula"],
+              "correctAnswer": "Femur"
+            },
+            {
+              "id": 3,
+              "title_name": "What is the chemical formula for methane?",
+              "options": ["CH4", "C2H6", "C3H8", "CH3OH"],
+              "correctAnswer": "CH4"
+            },
+            {
+              "id": 4,
+              "title_name": "What type of star is our Sun?",
+              "options": ["Red Giant", "White Dwarf", "Main Sequence", "Neutron Star"],
+              "correctAnswer": "Main Sequence"
+            },
+            {
+              "id": 5,
+              "title_name": "What is the term for animals that eat both plants and meat?",
+              "options": ["Herbivores", "Carnivores", "Omnivores", "Detritivores"],
+              "correctAnswer": "Omnivores"
+            },
+            {
+              "id": 6,
+              "title_name": "What is the chemical symbol for potassium?",
+              "options": ["P", "Po", "K", "Pt"],
+              "correctAnswer": "K"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the main component of the sun?",
+              "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+              "correctAnswer": "Hydrogen"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the smallest unit of life?",
+              "options": ["Atom", "Molecule", "Cell", "Organ"],
+              "correctAnswer": "Cell"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the process by which plants absorb water through their roots?",
+              "options": ["Transpiration", "Osmosis", "Photosynthesis", "Evaporation"],
+              "correctAnswer": "Osmosis"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the primary function of the respiratory system?",
+              "options": ["Digest food", "Circulate blood", "Exchange gases", "Protect the body"],
+              "correctAnswer": "Exchange gases"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the study of earthquakes called?",
+              "options": ["Meteorology", "Seismology", "Volcanology", "Geology"],
+              "correctAnswer": "Seismology"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the main gas found in the Sun?",
+              "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+              "correctAnswer": "Hydrogen"
+            },
+            {
+              "id": 3,
+              "title_name": "What part of the neuron receives signals?",
+              "options": ["Axon", "Dendrite", "Soma", "Synapse"],
+              "correctAnswer": "Dendrite"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the term for the movement of tectonic plates?",
+              "options": ["Erosion", "Plate Tectonics", "Convection", "Subduction"],
+              "correctAnswer": "Plate Tectonics"
+            },
+            {
+              "id": 5,
+              "title_name": "What is the largest organ inside the human body?",
+              "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+              "correctAnswer": "Liver"
+            },
+            {
+              "id": 6,
+              "title_name": "What is the chemical formula for glucose?",
+              "options": ["C6H12O6", "C2H5OH", "CO2", "CH4"],
+              "correctAnswer": "C6H12O6"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the force that opposes motion called?",
+              "options": ["Gravity", "Inertia", "Friction", "Momentum"],
+              "correctAnswer": "Friction"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the primary pigment found in plants?",
+              "options": ["Hemoglobin", "Chlorophyll", "Melanin", "Carotene"],
+              "correctAnswer": "Chlorophyll"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the basic unit of heredity?",
+              "options": ["Gene", "Chromosome", "DNA", "Cell"],
+              "correctAnswer": "Gene"
+            },
+            {
+              "id": 10,
+              "title_name": "What type of energy is stored in food?",
+              "options": ["Kinetic", "Thermal", "Chemical", "Nuclear"],
+              "correctAnswer": "Chemical"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the speed of sound?",
+              "options": ["340 m/s", "300 m/s", "360 m/s", "320 m/s"],
+              "correctAnswer": "340 m/s"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the most abundant element in the Earth's crust?",
+              "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+              "correctAnswer": "Oxygen"
+            },
+            {
+              "id": 3,
+              "title_name": "What is the process by which plants release oxygen?",
+              "options": ["Respiration", "Photosynthesis", "Transpiration", "Evaporation"],
+              "correctAnswer": "Photosynthesis"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the primary function of white blood cells?",
+              "options": ["Carry oxygen", "Fight infection", "Clot blood", "Provide nutrients"],
+              "correctAnswer": "Fight infection"
+            },
+            {
+              "id": 5,
+              "title_name": "What is the most abundant gas in the Earth's atmosphere?",
+              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+              "correctAnswer": "Nitrogen"
+            },
+            {
+              "id": 6,
+              "title_name": "What type of energy transformation occurs in a battery?",
+              "options": ["Chemical to electrical", "Electrical to thermal", "Kinetic to potential", "Potential to kinetic"],
+              "correctAnswer": "Chemical to electrical"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the unit of electrical power?",
+              "options": ["Volt", "Ampere", "Watt", "Ohm"],
+              "correctAnswer": "Watt"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the main function of the respiratory system?",
+              "options": ["Digest food", "Circulate blood", "Exchange gases", "Protect the body"],
+              "correctAnswer": "Exchange gases"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the phase of matter with a definite shape and volume?",
+              "options": ["Solid", "Liquid", "Gas", "Plasma"],
+              "correctAnswer": "Solid"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the chemical symbol for potassium?",
+              "options": ["P", "K", "Pt", "Po"],
+              "correctAnswer": "K"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the primary function of the mitochondria?",
+              "options": ["Protein synthesis", "Energy production", "Genetic storage", "Detoxification"],
+              "correctAnswer": "Energy production"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the pH level of stomach acid?",
+              "options": ["1", "3", "5", "7"],
+              "correctAnswer": "1"
+            },
+            {
+              "id": 3,
+              "title_name": "What is the largest organ in the human body?",
+              "options": ["Heart", "Skin", "Liver", "Lungs"],
+              "correctAnswer": "Skin"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the main gas produced by the respiratory system?",
+              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+              "correctAnswer": "Carbon Dioxide"
+            },
+            {
+              "id": 5,
+              "title_name": "What is the term for a change from a liquid to a gas?",
+              "options": ["Condensation", "Evaporation", "Freezing", "Melting"],
+              "correctAnswer": "Evaporation"
+            },
+            {
+              "id": 6,
+              "title_name": "What is the chemical formula for ozone?",
+              "options": ["O2", "O3", "CO2", "HO"],
+              "correctAnswer": "O3"
+            },
+            {
+              "id": 7,
+              "title_name": "What type of bond is formed when electrons are transferred between atoms?",
+              "options": ["Covalent Bond", "Ionic Bond", "Metallic Bond", "Hydrogen Bond"],
+              "correctAnswer": "Ionic Bond"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the process by which plants absorb water through their roots?",
+              "options": ["Transpiration", "Osmosis", "Photosynthesis", "Evaporation"],
+              "correctAnswer": "Osmosis"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the unit of measurement for force?",
+              "options": ["Joule", "Newton", "Pascal", "Watt"],
+              "correctAnswer": "Newton"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the primary source of energy for life on Earth?",
+              "options": ["Moon", "Sun", "Stars", "Volcanoes"],
+              "correctAnswer": "Sun"
             }
           ]
         }
