@@ -1,0 +1,618 @@
+{
+  "quizzes": [
+    {
+      "category": "English",
+      "levels": [
+        {
+          "level": 1,
+          "isPremium": false,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the synonym of 'Happy'?",
+              "options": ["Sad", "Joyful", "Angry", "Boring"],
+              "correctAnswer": "Joyful"
+            },
+            {
+              "id": 2,
+              "title_name": "Choose the correct spelling:",
+              "options": ["Recieve", "Receive", "Receeve", "Recive"],
+              "correctAnswer": "Receive"
+            },
+            {
+              "id": 3,
+              "title_name": "What is the antonym of 'Brave'?",
+              "options": ["Cowardly", "Strong", "Fearless", "Bold"],
+              "correctAnswer": "Cowardly"
+            },
+            {
+              "id": 4,
+              "title_name": "Identify the noun in this sentence: 'The cat is cute.'",
+              "options": ["The", "Cat", "Is", "Cute"],
+              "correctAnswer": "Cat"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct word: 'He ___ the book yesterday.'",
+              "options": ["Read", "Reads", "Reading", "Reed"],
+              "correctAnswer": "Read"
+            },
+            {
+              "id": 6,
+              "title_name": "Which of these is a verb?",
+              "options": ["Jump", "Table", "Bright", "Smooth"],
+              "correctAnswer": "Jump"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the plural of 'Child'?",
+              "options": ["Childs", "Children", "Childes", "Childies"],
+              "correctAnswer": "Children"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Quiet'?",
+              "options": ["Silent", "Loud", "Peaceful", "Shy"],
+              "correctAnswer": "Loud"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'She ___ well yesterday.'",
+              "options": ["Swim", "Swam", "Swims", "Swimming"],
+              "correctAnswer": "Swam"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an adjective?",
+              "options": ["Quickly", "Run", "Happy", "Brightly"],
+              "correctAnswer": "Happy"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "Select the correct synonym of 'Big'.",
+              "options": ["Tiny", "Huge", "Small", "Narrow"],
+              "correctAnswer": "Huge"
+            },
+            {
+              "id": 2,
+              "title_name": "What is a synonym for 'Fast'?",
+              "options": ["Quick", "Slow", "Sleepy", "Happy"],
+              "correctAnswer": "Quick"
+            },
+            {
+              "id": 3,
+              "title_name": "Identify the preposition: 'The cat is under the table.'",
+              "options": ["Cat", "Under", "Table", "Is"],
+              "correctAnswer": "Under"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the plural of 'Mouse'?",
+              "options": ["Mouses", "Mouse", "Mice", "Mices"],
+              "correctAnswer": "Mice"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct tense: 'I will ___ there tomorrow.'",
+              "options": ["Be", "Is", "Are", "Am"],
+              "correctAnswer": "Be"
+            },
+            {
+              "id": 6,
+              "title_name": "Which of these is a pronoun?",
+              "options": ["She", "Car", "Jump", "Sky"],
+              "correctAnswer": "She"
+            },
+            {
+              "id": 7,
+              "title_name": "Choose the antonym of 'Soft'.",
+              "options": ["Smooth", "Rough", "Bright", "Happy"],
+              "correctAnswer": "Rough"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the meaning of 'Benevolent'?",
+              "options": ["Kind", "Angry", "Small", "Bright"],
+              "correctAnswer": "Kind"
+            },
+            {
+              "id": 9,
+              "title_name": "What is the correct spelling?",
+              "options": ["Accomodate", "Acommodate", "Accommodate", "Acomodate"],
+              "correctAnswer": "Accommodate"
+            },
+            {
+              "id": 10,
+              "title_name": "Choose the correct option: 'He is as ___ as a lion.'",
+              "options": ["Brave", "Tall", "Quick", "Gentle"],
+              "correctAnswer": "Brave"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "Identify the noun in this sentence: 'The cat is cute.'",
+              "options": ["The", "Cat", "Is", "Cute"],
+              "correctAnswer": "Cat"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the antonym of 'Brave'?",
+              "options": ["Cowardly", "Strong", "Fearless", "Bold"],
+              "correctAnswer": "Cowardly"
+            },
+            {
+              "id": 3,
+              "title_name": "Which of these is a verb?",
+              "options": ["Jump", "Table", "Bright", "Smooth"],
+              "correctAnswer": "Jump"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the plural of 'Child'?",
+              "options": ["Childs", "Children", "Childes", "Childies"],
+              "correctAnswer": "Children"
+            },
+            {
+              "id": 5,
+              "title_name": "Choose the correct word: 'He ___ the book yesterday.'",
+              "options": ["Read", "Reads", "Reading", "Reed"],
+              "correctAnswer": "Read"
+            },
+            {
+              "id": 6,
+              "title_name": "Choose the correct spelling:",
+              "options": ["Recieve", "Receive", "Receeve", "Recive"],
+              "correctAnswer": "Receive"
+            },
+            {
+              "id": 7,
+              "title_name": "What is the synonym of 'Happy'?",
+              "options": ["Sad", "Joyful", "Angry", "Boring"],
+              "correctAnswer": "Joyful"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the opposite of 'Quiet'?",
+              "options": ["Silent", "Loud", "Peaceful", "Shy"],
+              "correctAnswer": "Loud"
+            },
+            {
+              "id": 9,
+              "title_name": "Choose the correct form: 'She ___ well yesterday.'",
+              "options": ["Swim", "Swam", "Swims", "Swimming"],
+              "correctAnswer": "Swam"
+            },
+            {
+              "id": 10,
+              "title_name": "Which word is an adjective?",
+              "options": ["Quickly", "Run", "Happy", "Brightly"],
+              "correctAnswer": "Happy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Maths",
+      "levels": [
+        {
+          "level": 1,
+          "isPremium": false,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 7 + 5?",
+              "options": ["10", "11", "12", "13"],
+              "correctAnswer": "12"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 16?",
+              "options": ["2", "3", "4", "5"],
+              "correctAnswer": "4"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 15 - 7?",
+              "options": ["7", "8", "9", "10"],
+              "correctAnswer": "8"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 3 x 5?",
+              "options": ["10", "15", "20", "25"],
+              "correctAnswer": "15"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 9 / 3?",
+              "options": ["2", "3", "4", "5"],
+              "correctAnswer": "3"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 7 x 8?",
+              "options": ["48", "54", "56", "63"],
+              "correctAnswer": "56"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 10 + 10?",
+              "options": ["20", "22", "25", "30"],
+              "correctAnswer": "20"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 3?",
+              "options": ["6", "9", "27", "81"],
+              "correctAnswer": "27"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 12 x 12?",
+              "options": ["120", "124", "140", "144"],
+              "correctAnswer": "144"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 50% of 100?",
+              "options": ["10", "20", "50", "100"],
+              "correctAnswer": "50"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "isPremium": false,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the value of pi (approx)?",
+              "options": ["3", "3.14", "3.5", "4"],
+              "correctAnswer": "3.14"
+            },
+            {
+              "id": 2,
+              "title_name": "What is 25 + 25?",
+              "options": ["30", "40", "50", "60"],
+              "correctAnswer": "50"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 8 x 7?",
+              "options": ["54", "56", "64", "72"],
+              "correctAnswer": "56"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 5^2?",
+              "options": ["20", "25", "30", "35"],
+              "correctAnswer": "25"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 9 x 9?",
+              "options": ["80", "81", "82", "83"],
+              "correctAnswer": "81"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 50 - 10?",
+              "options": ["30", "40", "50", "60"],
+              "correctAnswer": "40"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 11 x 11?",
+              "options": ["111", "121", "131", "141"],
+              "correctAnswer": "121"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the square root of 81?",
+              "options": ["8", "9", "10", "11"],
+              "correctAnswer": "9"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 6 x 6?",
+              "options": ["30", "32", "36", "40"],
+              "correctAnswer": "36"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 10 x 10?",
+              "options": ["90", "100", "110", "120"],
+              "correctAnswer": "100"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is 7 + 5?",
+              "options": ["10", "11", "12", "13"],
+              "correctAnswer": "12"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the square root of 16?",
+              "options": ["2", "3", "4", "5"],
+              "correctAnswer": "4"
+            },
+            {
+              "id": 3,
+              "title_name": "What is 15 - 7?",
+              "options": ["7", "8", "9", "10"],
+              "correctAnswer": "8"
+            },
+            {
+              "id": 4,
+              "title_name": "What is 3 x 5?",
+              "options": ["10", "15", "20", "25"],
+              "correctAnswer": "15"
+            },
+            {
+              "id": 5,
+              "title_name": "What is 9 / 3?",
+              "options": ["2", "3", "4", "5"],
+              "correctAnswer": "3"
+            },
+            {
+              "id": 6,
+              "title_name": "What is 7 x 8?",
+              "options": ["48", "54", "56", "63"],
+              "correctAnswer": "56"
+            },
+            {
+              "id": 7,
+              "title_name": "What is 10 + 10?",
+              "options": ["20", "22", "25", "30"],
+              "correctAnswer": "20"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the cube of 3?",
+              "options": ["6", "9", "27", "81"],
+              "correctAnswer": "27"
+            },
+            {
+              "id": 9,
+              "title_name": "What is 12 x 12?",
+              "options": ["120", "124", "140", "144"],
+              "correctAnswer": "144"
+            },
+            {
+              "id": 10,
+              "title_name": "What is 50% of 100?",
+              "options": ["10", "20", "50", "100"],
+              "correctAnswer": "50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "levels": [
+        {
+          "level": 1,
+          "isPremium": false,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What planet is known as the Red Planet?",
+              "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+              "correctAnswer": "Mars"
+            },
+            {
+              "id": 2,
+              "title_name": "Water boils at what temperature?",
+              "options": ["90°C", "100°C", "80°C", "70°C"],
+              "correctAnswer": "100°C"
+            },
+            {
+              "id": 3,
+              "title_name": "What gas do plants breathe in?",
+              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+              "correctAnswer": "Carbon Dioxide"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the center of an atom called?",
+              "options": ["Electron", "Neutron", "Nucleus", "Proton"],
+              "correctAnswer": "Nucleus"
+            },
+            {
+              "id": 5,
+              "title_name": "Which planet is known as the Earth's twin?",
+              "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+              "correctAnswer": "Venus"
+            },
+            {
+              "id": 6,
+              "title_name": "What part of the plant conducts photosynthesis?",
+              "options": ["Roots", "Stem", "Leaves", "Flower"],
+              "correctAnswer": "Leaves"
+            },
+            {
+              "id": 7,
+              "title_name": "Which is the largest planet in our solar system?",
+              "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+              "correctAnswer": "Jupiter"
+            },
+            {
+              "id": 8,
+              "title_name": "What is H2O?",
+              "options": ["Oxygen", "Hydrogen", "Water", "Helium"],
+              "correctAnswer": "Water"
+            },
+            {
+              "id": 9,
+              "title_name": "What force keeps us on the ground?",
+              "options": ["Magnetism", "Electricity", "Gravity", "Inertia"],
+              "correctAnswer": "Gravity"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the chemical symbol for gold?",
+              "options": ["Au", "Ag", "Go", "Ge"],
+              "correctAnswer": "Au"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "isPremium": false,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What is the hardest natural substance on Earth?",
+              "options": ["Iron", "Gold", "Diamond", "Silver"],
+              "correctAnswer": "Diamond"
+            },
+            {
+              "id": 2,
+              "title_name": "What is the chemical symbol for water?",
+              "options": ["H2O", "O2", "H2", "HO2"],
+              "correctAnswer": "H2O"
+            },
+            {
+              "id": 3,
+              "title_name": "What organ pumps blood through the body?",
+              "options": ["Liver", "Lungs", "Heart", "Kidneys"],
+              "correctAnswer": "Heart"
+            },
+            {
+              "id": 4,
+              "title_name": "What gas do humans exhale?",
+              "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+              "correctAnswer": "Carbon Dioxide"
+            },
+            {
+              "id": 5,
+              "title_name": "Which planet is closest to the Sun?",
+              "options": ["Earth", "Mars", "Mercury", "Venus"],
+              "correctAnswer": "Mercury"
+            },
+            {
+              "id": 6,
+              "title_name": "What is the process of water turning into vapor?",
+              "options": ["Evaporation", "Condensation", "Freezing", "Melting"],
+              "correctAnswer": "Evaporation"
+            },
+            {
+              "id": 7,
+              "title_name": "What planet is known as the Gas Giant?",
+              "options": ["Mars", "Jupiter", "Earth", "Venus"],
+              "correctAnswer": "Jupiter"
+            },
+            {
+              "id": 8,
+              "title_name": "What is the most common gas in the Earth's atmosphere?",
+              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+              "correctAnswer": "Nitrogen"
+            },
+            {
+              "id": 9,
+              "title_name": "What does DNA stand for?",
+              "options": [
+                "Dynamic Neutron Array",
+                "Deoxyribonucleic Acid",
+                "Dextroribonucleic Acid",
+                "Dicarbomonucleic Acid"
+              ],
+              "correctAnswer": "Deoxyribonucleic Acid"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the main gas found in the air we breathe?",
+              "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+              "correctAnswer": "Nitrogen"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "isPremium": true,
+          "questions": [
+            {
+              "id": 1,
+              "title_name": "What planet is known as the Red Planet?",
+              "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+              "correctAnswer": "Mars"
+            },
+            {
+              "id": 2,
+              "title_name": "Water boils at what temperature?",
+              "options": ["90°C", "100°C", "80°C", "70°C"],
+              "correctAnswer": "100°C"
+            },
+            {
+              "id": 3,
+              "title_name": "What gas do plants breathe in?",
+              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+              "correctAnswer": "Carbon Dioxide"
+            },
+            {
+              "id": 4,
+              "title_name": "What is the center of an atom called?",
+              "options": ["Electron", "Neutron", "Nucleus", "Proton"],
+              "correctAnswer": "Nucleus"
+            },
+            {
+              "id": 5,
+              "title_name": "Which planet is known as the Earth's twin?",
+              "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+              "correctAnswer": "Venus"
+            },
+            {
+              "id": 6,
+              "title_name": "What part of the plant conducts photosynthesis?",
+              "options": ["Roots", "Stem", "Leaves", "Flower"],
+              "correctAnswer": "Leaves"
+            },
+            {
+              "id": 7,
+              "title_name": "Which is the largest planet in our solar system?",
+              "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+              "correctAnswer": "Jupiter"
+            },
+            {
+              "id": 8,
+              "title_name": "What is H2O?",
+              "options": ["Oxygen", "Hydrogen", "Water", "Helium"],
+              "correctAnswer": "Water"
+            },
+            {
+              "id": 9,
+              "title_name": "What force keeps us on the ground?",
+              "options": ["Magnetism", "Electricity", "Gravity", "Inertia"],
+              "correctAnswer": "Gravity"
+            },
+            {
+              "id": 10,
+              "title_name": "What is the chemical symbol for gold?",
+              "options": ["Au", "Ag", "Go", "Ge"],
+              "correctAnswer": "Au"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
